@@ -13,6 +13,13 @@ class BinaryTree
 
 end
 
+class BTreeSort
+
+  def sort(array)
+
+  end
+
+end
 
 
 seven = BinaryTree.new(7, nil, nil)
