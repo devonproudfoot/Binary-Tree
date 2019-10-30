@@ -7,6 +7,10 @@ class BinaryTree
     @right = right
   end
 
+  def sort(array)
+
+  end
+
 end
 
 
